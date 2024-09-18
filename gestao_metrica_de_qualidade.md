@@ -1,114 +1,109 @@
-# Gestão
+# Gestão e Indicadores de Qualidade
 
-Gestão é o processo de **planejar, organizar, liderar** e **controlar** os recursos de uma organização para atingir objetivos específicos. É um termo muito utilizado no mundo corporativo, mas também é importante para sindicatos, associações e federações.
+Gestão é o processo de planejar, organizar, liderar e controlar os recursos de uma organização para atingir objetivos específicos. É um termo muito utilizado no mundo corporativo, mas também é importante para sindicatos, associações e federações. 
 
-## Importância da Gestão
+A gestão é fundamental para garantir que a empresa esteja operando de forma coesa e alinhada com sua visão estratégica. Para isso, é preciso estabelecer objetivos, metas, definir métodos, atribuir responsabilidades e tempo para as ações. 
 
-A gestão é fundamental para garantir que a empresa esteja operando de forma coesa e alinhada com sua visão estratégica. Para isso, é preciso:
-
-- Estabelecer objetivos e metas
-- Definir métodos
-- Atribuir responsabilidades
-- Estipular prazos para as ações
-
-## Qualidades do Gestor
-
-O gestor precisa ter capacidades de:
-
-- **Pensamento estratégico**
-- **Análise de indicadores**
-- **Liderança**
-
-Ele deve trabalhar com os recursos disponíveis da maneira mais eficiente possível para atingir os objetivos esperados com o mínimo de despesas.
-
-## Áreas de Aplicação da Gestão
+O gestor precisa ter capacidades de pensamento estratégico, de análise de indicadores e também de liderança. Ele deve trabalhar com os recursos disponíveis da maneira mais eficiente possível para atingir os objetivos esperados com o mínimo de despesas. 
 
 A gestão pode ser aplicada em diferentes áreas, como:
-
 - **Gestão de projetos**: Consiste em um grupo de medidas ou iniciativas temporárias para o desenvolvimento de um produto ou serviço.
 - **Gestão ambiental**: Aborda a vertente econômica, social e ambiental das atividades empresariais.
-- **Gente e gestão**: É o setor responsável por Recursos Humanos de uma empresa.
+- **Gente e gestão**: É o setor responsável por todo Recursos Humanos de uma empresa.
 
-## Gestão de Métricas de Qualidade
+## O que são indicadores de qualidade
 
-A gestão de métricas de qualidade é o uso de indicadores para medir e acompanhar a qualidade de produtos e serviços, garantindo que eles atendam aos padrões definidos.
+Qual a importância de mensurar os resultados do atendimento ao cliente de uma empresa? Para empresas que buscam alcançar o sucesso, por meio da oferta de satisfação ao cliente, avaliar os resultados é fundamental. Entender o que são indicadores de qualidade pode ser um fator determinante para que esse sucesso chegue de forma mais breve.
 
-### Objetivos das Métricas de Qualidade
+A utilização de métricas de qualidade serve de direcionamento em muitos momentos, principalmente quando as questões estão ligadas à qualidade de atendimento, satisfação e fidelização de clientes. 
 
-As métricas de qualidade podem ser usadas para:
+Podem parecer apenas números, mas se considerarmos que 59% dos clientes deixam de fazer negócio com empresas que oferecem uma experiência de atendimento ruim, e que o bom atendimento é determinante para a fidelização dos consumidores, ter números que possibilitem melhores experiências pode ser um grande destaque comercial.
 
-- Monitorar resultados
-- Identificar problemas críticos
-- Orientar a tomada de decisões
-- Guiar a implementação de um Sistema de Gestão de Qualidade
-- Garantir que os serviços passem por um processo de melhoria contínua
+A fim de explicar melhor sobre esses indicadores e como eles podem melhorar o dia a dia de uma empresa, reunimos neste conteúdo os seguintes temas:
+- O que são indicadores de qualidade?
+- Para que servem as métricas e indicadores de qualidade?
+- Qual a importância de avaliar indicadores de qualidade?
+- O que os indicadores de qualidade avaliam?
+- Quais os principais indicadores de qualidade de atendimento?
 
-### Aplicação das Métricas
+Se interessou pelo assunto? Continue a leitura!
 
-As métricas de qualidade podem ser aplicadas a projetos e produtos, abrangendo não apenas o produto final, mas também os processos utilizados para criá-lo. São um tipo de indicador de desempenho de processos, também conhecidos como **KPIs** (Key Performance Indicators).
+## O que são indicadores de qualidade?
 
-## Exemplos de Métricas de Qualidade
+Indicadores de qualidade, também conhecidos como métricas, são ferramentas utilizadas pelas empresas para medir os níveis de satisfação dos clientes, desempenho dos agentes, resultados dos processos implementados, dentre outros números ligados ao atendimento ao cliente.
 
-1. **Data Quality**: Precisão, integridade, auditabilidade, consistência e validade são métricas que indicam a confiabilidade, uniformidade e abrangência das informações. Por exemplo, se um banco de dados de clientes tiver campos ausentes, a taxa de completude será menor, indicando uma qualidade de dados inferior.
-2. **Marketing**: Pedidos de orçamento, recorrência de compra, ticket médio, valor total de vendas, quantidade de vendas, renovações de contrato e percentual de churn.
-3. **Custos de qualidade**: Os custos de qualidade podem ser considerados uma métrica de qualidade.
+Os KPIs, sigla para Key Performance Indicator, que em português significam Indicador-chave de Performance, também correspondem ao que chamamos de indicadores de qualidade, e avaliam não só o atendimento ao cliente, mas todos os indicadores capazes de apontar para o sucesso de uma empresa. Mas aqui, falaremos apenas sobre os KPIs de atendimento ao cliente.
 
-As métricas de qualidade estão relacionadas à definição, criação e controle da qualidade, e um dos seus papéis mais importantes é impedir que as mesmas falhas continuem a ser cometidas. 
+Através dos indicadores de qualidade, as empresas conseguem ter noção das diferenças entre as metas e os resultados alcançados, isso ajuda na visualização dos pontos fortes e fracos, servindo de guia para o sucesso da área de atendimento.
 
-As métricas de qualidade podem estar incluídas no Plano de Gerenciamento da Qualidade ou documentadas como anexo do mesmo.
+## Para que servem as métricas e indicadores de qualidade?
 
-## Principais Indicadores de Qualidade
+O acompanhamento de métricas de qualidade funciona como um medidor de gasolina de um carro, onde você consegue acompanhar quando é o momento de abastecer. Com a qualidade é a mesma coisa; se a empresa não mensura os resultados e a qualidade do serviço oferecido, fica muito difícil avaliar se o termômetro da satisfação dos clientes está subindo ou descendo.
 
-Os 7 principais indicadores de qualidade são:
+Basicamente, os indicadores de qualidade servem para:
+- Apontar a direção das mudanças;
+- Monitorar resultados;
+- Identificar o que está crítico;
+- Orientar na tomada de decisões;
+- Guiar a implementação de um Sistema de Gestão de Qualidade.
 
-1. Indicador de eficiência
-2. Indicador de eficácia
-3. Indicador de efetividade
-4. Indicador de atendimento
-5. Indicadores de qualidade de satisfação
-6. Indicador de segurança
-7. Indicador de turnover
+## Qual a importância de avaliar indicadores de qualidade?
 
-## Métricas de Sucesso e KPIs
+Se os indicadores de qualidade servem para apontar as forças e falhas de uma empresa, não contar com métricas de qualidade pode tornar o futuro incerto.
 
-As métricas de sucesso e os indicadores-chave de desempenho (KPIs) são medidas quantitativas que ajudam a avaliar o desempenho de uma empresa e a eficácia das suas estratégias:
+A avaliação de resultados sempre foi e será algo de grande importância para empresas que almejam crescimento, baseado na boa produtividade e no atendimento ao cliente de qualidade. Por isso, ter um direcionamento se torna fundamental.
 
-### Métricas de Sucesso
+Os indicadores de qualidade são determinantes no crescimento saudável de uma empresa. Possibilitam a identificação das falhas, a melhoria nos processos operacionais, além de ser um grande estímulo competitivo.
 
-São dados quantificáveis que medem aspectos específicos de um projeto, como tempo, qualidade, custo e satisfação do cliente.
+## Quais são as vantagens de implementar indicadores de qualidade?
 
-### KPIs
+Fazer uso de indicadores de qualidade no dia a dia da gestão de negócios pode trazer os seguintes benefícios para a sua empresa:
+- Decisões mais assertivas;
+- Processos organizacionais mais eficazes e eficientes;
+- Mais transparência sobre o desempenho individual e coletivo;
+- Criação de planos mais realistas;
+- Promoção da melhoria contínua;
+- Uso inteligente dos recursos disponíveis;
+- Diminuição de falhas e retrabalhos;
+- Empresa mais competitiva.
 
-São indicadores criados a partir das métricas que medem um objetivo específico, normalmente associado a uma meta. Os KPIs são importantes para monitorar o progresso da empresa e fazer ajustes quando necessário.
+## O que os indicadores de qualidade avaliam?
 
-### Definindo KPIs
+Existem muitos exemplos de indicadores de qualidade, veja alguns:
 
-Para definir KPIs, é importante:
+1. **Produtividade** – indicadores de qualidade ligados à eficiência:
+   - Os índices ligados à produtividade servem principalmente para evitar desperdícios numa empresa, seja de mão de obra ou de matéria-prima. O intuito principal é a redução de orçamento.
 
-- Definir claramente a estratégia da empresa
-- Identificar as questões que precisam ser respondidas
-- Analisar a disponibilidade e necessidade de dados
-- Examinar benchmarks e estabelecer metas adequadas
+2. **Satisfação e fidelização do cliente** – indicadores de qualidade ligados à eficácia:
+   - Os índices ligados à satisfação e fidelização do cliente servem para identificar gargalos no atendimento e maneiras de melhorar a qualidade do atendimento. O cálculo desses índices é realizado por meio de pesquisas, geralmente disparadas automaticamente, utilizando metodologia NPS.
 
-### Exemplos de KPIs
+3. **Valor** – indicadores de qualidade ligados ao valor:
+   - Os índices ligados a valor ajudam a mensurar a influência e relevância do produto ou serviço na vida do consumidor. Uma boa forma de calcular esse índice é através de pesquisas de mercado.
 
-Os KPIs podem ser utilizados em diversas áreas da empresa, como gestão de pessoas, produtividade, processos, marketing, vendas e financeiro. Alguns exemplos de KPIs para o sucesso do cliente são:
+4. **Reclamações dos clientes** – indicadores de qualidade ligados ao atendimento:
+   - Os indicadores de reclamações dos clientes estão diretamente relacionados ao processo de atendimento e pós-venda. Se os clientes estão reclamando, algo está errado. Esse tipo de índice auxilia na melhoria dos atendimentos e na adoção da cultura do Customer Experience.
 
-- Taxa de churn de clientes
-- Receita Recorrente Mensal (MRR)
-- Receita Média por Usuário (ARPU)
-- Retenção de Dólar Líquido (NDR)
-- Net Promoter Score (NPS)
-- Customer Satisfaction Score (CSAT)
-- Taxa de conversão
+5. **Qualidade** – indicadores ligados à segurança:
+   - O indicador de qualidade é essencial para a saúde e integridade dos clientes e também dos funcionários que atuam com os produtos. Nesse passo, são importantes os testes e o acompanhamento das exigências de certificações e normas.
 
+## Indicadores de qualidade: passo a passo de como criar
 
-# Links Relacionados à Gestão de Métricas de Qualidade
+Depois de conferir o que são indicadores de qualidade, o que eles podem avaliar e as vantagens de implementar essas ferramentas de gestão, que tal descobrir como criar métricas e indicadores de qualidade?
 
-1. [O que é Gestão de Métricas de Qualidade?](https://www.google.com/search?q=o+que+%C3%A9+Gest%C3%A3o+de+M%C3%A9tricas+de+Qualidade%3F&rlz=1C1CHZN_pt-BRBR1117BR1117&oq=o+que+%C3%A9++Gest%C3%A3o+de+M%C3%A9tricas+de+Qualidade%3F)
+Para te ajudar, elaboramos um passo a passo descomplicado:
 
-2. [Gestão?](https://www.google.com/search?q=Gest%C3%A3o%3F&rlz=1C1CHZN_pt-BRBR1117BR1117&oq=Gest%C3%A3o%3F)
+### Passo 1 – Tenha clareza sobre os objetivos estratégicos da empresa
 
-3. [Métricas de Qualidade - Exemplos](https://www.google.com/search?q=m%C3%A9tricas+de+qualidade+exemplos&sca_esv=8cff900964a59ae3&sca_upv=1&rlz=1C1CHZN_pt-BRBR1117BR1117&sxsrf=ADLYWIIO61uac6kArVqjQ2-N8dpJ368Zlg%3A1726682428565&ei=PBXrZoWIIvT51sQP5MDg4Q0)
+Os objetivos estratégicos da organização – ou seja, aqueles de longo prazo – precisam estar muito bem definidos e esclarecidos para toda a equipe. Os indicadores vão se basear nesses resultados que se deseja alcançar.
 
-4. [Métricas de Qualidade - Exemplos (Repetido)](https://www.google.com/search?q=m%C3%A9tricas+de+qualidade+exemplos&sca_esv=8cff900964a59ae3&sca_upv=1&rlz=1C1CHZN_pt-BRBR1117BR1117&sxsrf=ADLYWIIO61uac6kArVqjQ2-N8dpJ368Zlg%3A1726682428565&ei=PBXrZoWIIvT51sQP5MDg4Q0)
+### Passo 2 – Estabeleça o que você quer monitorar
+
+Quais áreas e aspectos do seu modelo de negócio você pretende acompanhar de perto com a ajuda dos indicadores de qualidade? Você pode, por exemplo, monitorar o atendimento, a produção, a logística, a relação com os fornecedores, etc.
+
+### Passo 3 – Defina como os dados serão coletados
+
+O próximo passo consiste em definir o método para coletar os dados sobre os aspectos do negócio que você considera relevante monitorar. Esses dados vão sustentar seus indicadores de qualidade e podem ser obtidos por meio de relatórios de desempenho ou com a ajuda de um software especializado.
+
+### Passo 4 – Coloque as metas de qualidade
+
+Para que as análises dos indicadores façam sentido, é preciso estabelecer metas que servirão de parâmetro de comparação com os resultados obtidos. Além disso, as metas são importantes para orientar a atuação de todos os colaboradores.

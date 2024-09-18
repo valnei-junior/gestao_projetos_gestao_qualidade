@@ -109,6 +109,16 @@ O próximo passo consiste em definir o método para coletar os dados sobre os as
 Para que as análises dos indicadores façam sentido, é preciso estabelecer metas que servirão de parâmetro de comparação com os resultados obtidos. Além disso, as metas são importantes para orientar a atuação de todos os colaboradores.
 
 
+# Links sobre Gestão de Métricas de Qualidade
+
+- [O que é Gestão de Métricas de Qualidade?](https://www.google.com/search?q=o+que+%C3%A9+Gest%C3%A3o+de+M%C3%A9tricas+de+Qualidade%3F&rlz=1C1CHZN_pt-BRBR1117BR1117&oq=o+que+%C3%A9++Gest%C3%A3o+de+M%C3%A9tricas+de+Qualidade%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCjEzMTk2ajBqMTWoAgmwAgE&sourceid=chrome&ie=UTF-8)
+
+- [Gestão?](https://www.google.com/search?q=Gest%C3%A3o%3F&rlz=1C1CHZN_pt-BRBR1117BR1117&oq=Gest%C3%A3o%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMg8IAhAAGEMYsQMYgAQYigUyCggDEAAYsQMYgAQyCggEEAAYsQMYgAQyCggFEAAYsQMYgAQyDAgGEAAYQxiABBiKBTIGCAcQRRg60gEJNzQyOGowajE1qAIIsAIB&sourceid=chrome&ie=UTF-8)
+
+- [Métricas de qualidade exemplos](https://www.google.com/search?q=m%C3%A9tricas+de+qualidade+exemplos&sca_esv=8cff900964a59ae3&sca_upv=1&rlz=1C1CHZN_pt-BRBR1117BR1117&sxsrf=ADLYWIIO61uac6kArVqjQ2-N8dpJ368Zlg%3A1726682428565&ei=PBXrZoWIIvT51sQP5MDg4Q0&oq=+Gest%C3%A3o+de+M%C3%A9tricas+de+Qualidade%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiIyBHZXN0w6NvIGRlIE3DqXRyaWNhcyBkZSBRdWFsaWRhZGU_KgIIADIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESMgZUABYAHAAeAGQAQCYAfYDoAH2A6oBAzUtMbgBAcgBAPgBAZgCAaAC_gOYAwCSBwM0LTGgB7wD&sclient=gws-wiz-serp)
+
+- [KPIs e Métricas de Sucesso](https://www.google.com/search?q=%28KPIs+e+M%C3%A9tricas+de+Sucesso&sca_esv=8cff900964a59ae3&sca_upv=1&rlz=1C1CHZN_pt-BRBR1117BR1117&sxsrf=ADLYWIK1HQnruBkKBzpolYQF7H1dk1nYQQ%3A1726683129987&ei=-RfrZuPuO_DJ1sQPoYSZyAk&ved=0ahUKEwijz-j0i82IAxXwpJUCHSFCBpkQ4dUDCA8&uact=5&oq=%28KPIs+e+M%C3%A9tricas+de+Sucesso&gs_lp=Egxnd3Mtd2l6LXNlcnAiHChLUElzIGUgTcOpdHJpY2FzIGRlIFN1Y2Vzc28yBRAhGKABMgUQIRigAUizJlDOFVjOFXADeACQAQCYAb0CoAGPBKoBBTItMS4xuAEDyAEA-AEC-AEBmAIEoALWAsICChAAGLADGNYEGEeYAwCIBgGQBgiSBwUzLjMtMaAHjgk&sclient=gws-wiz-serp)
+
 ## Outros Links Úteis
 
 - [Indicadores de Qualidade - Zendesk](https://www.zendesk.com.br/blog/indicadores-de-qualidade/)

@@ -107,3 +107,10 @@ O próximo passo consiste em definir o método para coletar os dados sobre os as
 ### Passo 4 – Coloque as metas de qualidade
 
 Para que as análises dos indicadores façam sentido, é preciso estabelecer metas que servirão de parâmetro de comparação com os resultados obtidos. Além disso, as metas são importantes para orientar a atuação de todos os colaboradores.
+
+
+## Outros Links Úteis
+
+- [Indicadores de Qualidade - Zendesk](https://www.zendesk.com.br/blog/indicadores-de-qualidade/)
+- [Diferença entre Métrica e KPI - Zendesk](https://www.zendesk.com.br/blog/diferenca-entre-metrica-e-kpi/)
+- [Métricas de Sucesso - Fixe Consulting](https://fixeconsulting.com/2024/02/metricas-de-sucesso-saiba-o-que-e-e-como-definir/)
